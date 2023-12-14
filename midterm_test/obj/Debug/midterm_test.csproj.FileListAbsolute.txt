@@ -1,0 +1,13 @@
+D:\visualstudio\code\midterm_test\midterm_test\bin\Debug\midterm_test.exe.config
+D:\visualstudio\code\midterm_test\midterm_test\bin\Debug\midterm_test.exe
+D:\visualstudio\code\midterm_test\midterm_test\bin\Debug\midterm_test.pdb
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.csproj.AssemblyReference.cache
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.Form1.resources
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.Properties.Resources.resources
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.csproj.GenerateResource.cache
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.csproj.CoreCompileInputs.cache
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.exe
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.pdb
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.Form2.resources
+D:\visualstudio\code\midterm_test\midterm_test\bin\Debug\Guna.UI2.dll
+D:\visualstudio\code\midterm_test\midterm_test\obj\Debug\midterm_test.csproj.CopyComplete
